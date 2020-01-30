@@ -1,0 +1,24 @@
+{
+  "name": "select-issue-rtl",
+  "version": "0.0.1",
+  "description": "select dummy example that does not work",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest \"test\\.js\""
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0",
+    "@testing-library/jest-dom": "^4.1.2",
+    "@testing-library/react": "^9.3.2",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "prop-types": "^15.7.2",
+    "react": "16.10.2",
+    "react-dom": "16.10.2"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
